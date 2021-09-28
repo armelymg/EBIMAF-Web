@@ -94,11 +94,11 @@ a:focus {
 }
 
 .sub_page .about_section {
-  background-color: #0aa63a;
+  background-color: #022876;
 }
 
 .header_section {
-  background-color: #0aa63a;
+  background-color: #022876;
 }
 
 .header_section .container-fluid {
@@ -108,7 +108,7 @@ a:focus {
 
 .header_section .header_top {
   padding: 15px 0;
-  background-color: #026921;
+  background-color: #032e86;
 }
 
 .header_section .header_bottom {
@@ -317,7 +317,7 @@ a:focus {
 }
 
 .slider_section .detail-box {
-  color: #0aa63a;
+  color: #022876;
 }
 
 .slider_section .detail-box h1 {
@@ -376,7 +376,7 @@ a:focus {
   position: unset;
   width: 50px;
   height: 50px;
-  background-color: #0aa63a;
+  background-color: #022876;
   opacity: 1;
   -webkit-transition: all .2s;
   transition: all .2s;
@@ -442,7 +442,7 @@ a:focus {
   text-align: center;
   height: 45px;
   line-height: 45px;
-  background-color: #0aa63a;
+  background-color: #022876;
   color: #ffffff;
   position: absolute;
   bottom: 50%;
@@ -535,7 +535,7 @@ a:focus {
 }
 
 .about_section {
-  background-color: #0aa63a;
+  background-color: #022876;
   color: #ffffff;
 }
 
@@ -613,7 +613,7 @@ a:focus {
 }
 
 .why_us_section .box .detail-box a {
-  color: #0aa63a;
+  color: #022876;
   font-weight: 600;
 }
 
@@ -688,7 +688,7 @@ a:focus {
   top: 24%;
   z-index: 9;
   opacity: 1;
-  background-color: #0aa63a;
+  background-color: #022876;
   font-size: 24px;
   -webkit-transition: all .2s;
   transition: all .2s;
@@ -708,7 +708,7 @@ a:focus {
 }
 
 .info_section {
-  background-color: #0aa63a;
+  background-color: #022876;
   color: #ffffff;
   padding: 90px 0 45px 0;
 }
@@ -765,7 +765,7 @@ a:focus {
 /* footer section*/
 .footer_section {
   position: relative;
-  background-color: #0aa63a;
+  background-color: #022876;
   text-align: center;
 }
 
