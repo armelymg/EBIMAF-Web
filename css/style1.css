@@ -1889,61 +1889,80 @@ textarea.input {
 	11 -> FOOTER
 ===========================================================*/
 
-#footer {
-  background: #15161D;
-  color: #B9BABC;
+.info_section {
+  background-color: #022876;
+  color: #ffffff;
+  padding: 90px 0 45px 0;
 }
 
-#bottom-footer {
-  background: #1E1F29;
+.info_section h5 {
+  margin-bottom: 15px;
+  font-size: 24px;
 }
 
-.footer {
-  margin: 30px 0px;
+.info_section .info_links ul {
+  padding: 0;
 }
 
-.footer .footer-title {
-  color: #FFF;
-  text-transform: uppercase;
-  font-size: 18px;
-  margin: 0px 0px 30px;
+.info_section .info_links ul li {
+  list-style-type: none;
 }
 
-.footer-links li+li {
+.info_section .info_links ul li a {
+  display: inline-block;
+  color: #ffffff;
+  margin-bottom: 5px;
+}
+
+.info_section .info_form form input {
+  outline: none;
+  width: 100%;
+  padding: 7px 10px;
+}
+
+.info_section .info_form form button {
+  padding: 8px 35px;
+  outline: none;
+  border: none;
+  color: #ffffff;
+  background: #f3c93e;
   margin-top: 15px;
+  text-transform: uppercase;
 }
 
-.footer-links li a {
-  color: #B9BABC;
+.info_section .info_form .social_box {
+  margin-top: 35px;
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
 }
 
-.footer-links li i {
-  margin-right: 15px;
-  color: #D10024;
-  width: 14px;
+.info_section .info_form .social_box a {
+  margin-right: 25px;
+  color: #ffffff;
+  font-size: 24px;
+}
+
+/* footer section*/
+.footer_section {
+  position: relative;
+  background-color: #022876;
   text-align: center;
 }
 
-.footer-links li a:hover {
-  color: #D10024;
+.footer_section p {
+  border-top: 1px solid #ffffff;
+  color: #ffffff;
+  padding: 20px 0;
+  margin: 0;
 }
 
-.copyright {
-  margin-top: 30px;
-  display: block;
-  font-size: 12px;
+.footer_section p a {
+  color: inherit;
 }
-
-.footer-payments li {
-  display: inline-block;
-  margin-right: 5px;
-}
-
-.footer-payments li a {
-  color: #15161D;
-  font-size: 36px;
-  display: block;
-}
+/*# sourceMappingURL=style.css.map */
+© 2021 GitHub, Inc.
 
 /*=========================================================
 	12 -> SLICK STYLE
